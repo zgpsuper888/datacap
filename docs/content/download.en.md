@@ -10,7 +10,7 @@ The current datacap release is version <img class="inline-flex" src="https://img
 
 ::: grid cols-3 gap-6
 - #### Server packages
-  Deploy manually with the `.tar.gz` package. See [Install DataCap](/en/reference/getStarted/install.html) for complete installation instructions.
+  Deploy manually with the `.tar.gz` package. See [Install DataCap](/en/reference/get-started/install.html) for complete installation instructions.
 
   !btn[datacap-server-2025.1.0-bin.tar.gz](https://repo1.maven.org/maven2/io/edurt/datacap/datacap-server/2025.1.0/datacap-server-2025.1.0-bin.tar.gz)
 
@@ -20,7 +20,7 @@ The current datacap release is version <img class="inline-flex" src="https://img
   !btn[datacap-client-cli-2025.1.0.jar](https://repo1.maven.org/maven2/io/edurt/datacap/datacap-client-cli/2025.1.0/datacap-client-cli-2025.1.0.jar)
 
 - #### More
-  View [The source code to install](/en/reference/getStarted/install.md#the-source-code-to-install) for complete installation instructions。
+  View [The source code to install](/en/reference/get-started/install.md#the-source-code-to-install) for complete installation instructions。
 
   !btn[Source](https://github.com/devlive-community/datacap)
 :::
